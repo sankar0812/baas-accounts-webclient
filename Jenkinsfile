@@ -18,7 +18,7 @@ pipeline {
                 }
             }
         }
-        stage('SETTING UP ALL THE CONFIGURATIONS') {
+        /**stage('SETTING UP ALL THE CONFIGURATIONS') {
             steps {
                 script {
                         def sourcePath = sh(script: 'pwd', returnStdout: true).trim()
@@ -35,7 +35,7 @@ pipeline {
                         //sh "rm -rf ${sourcePath}/${CONFIG_REPO_NAME}"
                 }
             }
-        }
+        }**/
         /**stage('PRE-DEPLOYMENT EMAIL') {
             steps {
                 script {
