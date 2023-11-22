@@ -1,0 +1,32 @@
+[
+{
+    "StoreName"  : "OnlineStore",    
+    "StoreCode" : "ONLINE-STORE",     
+    "IsEnabled" : false,     
+    "Description" : "This is mock dataThis is mock dataThis is mock dataThis is mock dataThis is mock dataThis is mock dataThis is mock data",   
+    "StartDate" : "2023-11-08T07:20:02+0000",      
+    "EndDate" : "2023-11-08T07:20:02+0000"       
+},
+{
+    "StoreName"  : "GanapathyStore",    
+    "StoreCode" : "GANAPATHY-STORE",     
+    "IsEnabled" : false,     
+    "Description" : "This is mock data",   
+    "StartDate" : "2023-11-08T07:20:02+0000",      
+    "EndDate" : "2023-11-08T07:20:02+0000"       
+},{
+    "StoreName"  : "MuruganStore ,Hari Prakash and Hari Prakash",    
+    "StoreCode" : "MURUGAN-STORE",     
+    "IsEnabled" : false,     
+    "Description" : "This is mock data",   
+    "StartDate" : "2023-11-08T07:20:02+0000",      
+    "EndDate" : "2023-11-08T07:20:02+0000"       
+},{
+    "StoreName"  : "DavidStore",    
+    "StoreCode" : "DAVID-STORE",     
+    "IsEnabled" : false,     
+    "Description" : "This is mock data",   
+    "StartDate" : "2023-11-08T07:20:02+0000",      
+    "EndDate" : "2023-11-08T07:20:02+0000"       
+}
+]

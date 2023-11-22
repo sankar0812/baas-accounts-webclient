@@ -1,0 +1,47 @@
+[
+    {
+        "BankName": "KOTAK MAHENDRA",
+        "DisplayName": "kM",
+        "AccountCode": "SB",
+        "AccountType": "SAVING ACCOUNT ",
+        "AccountBalance": "$6563",
+        "AvailableBalance": "$6563",
+        "CreatedBy":"Dinesh"
+    },
+    {
+        "BankName": "RBL BANK",
+        "DisplayName": "RB",
+        "AccountCode": "CA",
+        "AccountType": "CURRENT ACCOUNT",
+        "AccountBalance": "$6563",
+        "AvailableBalance": "$6563",
+        "CreatedBy":"Dinesh"
+    },
+    {
+        "BankName": "AXIS BANK",
+        "DisplayName": "AB",
+        "AccountCode": "RD",
+        "AccountType": "RECURRING DEPOSIT",
+        "AccountBalance": "$7567",
+        "AvailableBalance": "$7567",
+        "CreatedBy":"Dinesh"
+    },
+    {
+        "BankName": "CITI",
+        "DisplayName": "CITI",
+        "AccountCode": "SB",
+        "AccountType": "SAVING ACCOUNT ",
+        "AccountBalance": "$8567",
+        "AvailableBalance": "$8567",
+        "CreatedBy":"Dinesh"
+    },
+    {
+        "BankName": "ICICI",
+        "DisplayName": "ICICI",
+        "AccountCode": "FD",
+        "AccountType": "FIXED DEPOSITED ",
+        "AccountBalance": "$9567",
+        "AvailableBalance": "$9567",
+        "CreatedBy":"Dinesh"
+    }
+]

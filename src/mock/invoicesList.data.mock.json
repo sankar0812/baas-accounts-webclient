@@ -1,0 +1,38 @@
+[
+    {
+        "CustomerName": "Sample1",
+        "Invoice": "2",
+        "InvoiceDate": "04/02/2023",
+        "InvoiceAmount": "5238",
+        "BalanceDue": "$6563",
+        "InvoiceStatus": "Pending",
+        "CreatedDate":"5238"
+    },
+	 {
+        "CustomerName": "Sample2",
+        "Invoice": "2",
+        "InvoiceDate": "04/02/2023",
+        "InvoiceAmount": "5238",
+        "BalanceDue": "$6563",
+        "InvoiceStatus": "Pending",
+        "CreatedDate":"5238"
+    },
+	 {
+        "CustomerName": "Sample3",
+        "Invoice": "2",
+        "InvoiceDate": "04/02/2023",
+        "InvoiceAmount": "5238",
+        "BalanceDue": "$6563",
+        "InvoiceStatus": "Pending",
+        "CreatedDate":"5238"
+    },
+	 {
+        "CustomerName": "Sample4",
+        "Invoice": "2",
+        "InvoiceDate": "04/02/2023",
+        "InvoiceAmount": "5238",
+        "BalanceDue": "$6563",
+        "InvoiceStatus": "Pending",
+        "CreatedDate":"5238"
+    }
+]

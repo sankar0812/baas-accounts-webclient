@@ -1,0 +1,112 @@
+[
+    {
+        "PaidAmount": 20000,
+        "PaidDate": "2023-10-06T00:00:00.000Z",
+        "PaymentConfirmation": "asdfghjkl",
+        "PaymentMethod": {
+            "PaymentMethod": "UPI"
+        },
+        "Currency":{
+            "CurrencyCode" : "USD"
+        }
+    },
+    {
+        "PaidAmount": 20000,
+        "PaidDate": "2023-10-06T00:00:00.000Z",
+        "PaymentConfirmation": "asdfghjkl",
+        "PaymentMethod": {
+            "PaymentMethod": "Card-1"
+        },
+        "Currency":{
+            "CurrencyCode" : "USD"
+        }
+    },
+    {
+        "PaidAmount": 20000,
+        "PaidDate": "2023-10-06T00:00:00.000Z",
+        "PaymentConfirmation": "asdfghjkl",
+        "PaymentMethod": {
+            "PaymentMethod": "Card--2"
+        },
+        "Currency":{
+            "CurrencyCode" : "USD"
+        }
+    },
+    {
+        "PaidAmount": 20000,
+        "PaidDate": "2023-10-06T00:00:00.000Z",
+        "PaymentConfirmation": "asdfghjkl",
+        "PaymentMethod": {
+            "PaymentMethod": "Card-3"
+        },
+        "Currency":{
+            "CurrencyCode" : "USD"
+        }
+    },
+    {
+        "PaidAmount": 20000,
+        "PaidDate": "2023-10-06T00:00:00.000Z",
+        "PaymentConfirmation": "asdfghjkl",
+        "PaymentMethod": {
+            "PaymentMethod": "Card-4"
+        },
+        "Currency":{
+            "CurrencyCode" : "USD"
+        }
+    },
+    {
+        "PaidAmount": 20000,
+        "PaidDate": "2023-10-06T00:00:00.000Z",
+        "PaymentConfirmation": "asdfghjkl",
+        "PaymentMethod": {
+            "PaymentMethod": "Card-5"
+        },
+        "Currency":{
+            "CurrencyCode" : "USD"
+        }
+    },
+    {
+        "PaidAmount": 960,
+        "PaidDate": "2023-10-06T00:00:00.000Z",
+        "PaymentConfirmation": "asdfghjkl",
+        "PaymentMethod": {
+            "PaymentMethod": "Card-6"
+        },
+        "Currency":{
+            "CurrencyCode" : "USD"
+        }
+    },
+    {
+        "PaidAmount": 20000,
+        "PaidDate": "2023-10-06T00:00:00.000Z",
+        "PaymentConfirmation": "asdfghjkl",
+        "PaymentMethod": {
+            "PaymentMethod": "Card-7"
+        },
+        "Currency":{
+            "CurrencyCode" : "USD"
+        }
+    },
+    {
+        "PaidAmount": 20000,
+        "PaidDate": "2023-10-06T00:00:00.000Z",
+        "PaymentConfirmation": "asdfghjkl",
+        "PaymentMethod": {
+            "PaymentMethod": "Card-8"
+        },
+        "Currency":{
+            "CurrencyCode" : "USD"
+        }
+    },
+    {
+        "PaidAmount": 20000,
+        "PaidDate": "2023-10-06T00:00:00.000Z",
+        "PaymentConfirmation": "asdfghjkl",
+        "PaymentMethod": {
+            "PaymentMethod": "Card-9"
+        },
+        "Currency":{
+            "CurrencyCode" : "USD"
+        }
+    }
+]

@@ -1,0 +1,12 @@
+{
+    "DateLocale": "en-us",
+    "DisplayDateFormat": "MM/DD/YYYY hh:mm:ss",
+    "DisplayTimeZone": "America/New_York",
+    "StoredDateFormat": "yyyy-MM-DDTHH:mm:ss",
+    "StoredTimeZone": "America/New_York",
+    "DateFieldFormat": "m/d/Y",
+    "TimeFieldFormat": "H:i:ss K",
+    "StoredCurrencyFormat": "USD",
+    "DisplayCurrencyFormat": "USD",
+    "DisplayLanguage": "en"
+}

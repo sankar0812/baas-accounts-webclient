@@ -1,0 +1,13 @@
+
+[
+    {
+    "VendorName" : "BillPay",
+    "AccountNumber" : "1234567890",
+    "AccountCode" : "REN-0766-04",
+    "DisplayName" : "BillPay",
+    "AccountBalance" : "100",
+    "CurrencyCode" : "Dollar",
+    "OpenedDate" : "2023-04-10T08:44:18.825Z",
+    "CreatedDate" : "2023-04-10T08:44:18.825Z"
+}
+]

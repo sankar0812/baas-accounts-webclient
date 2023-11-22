@@ -1,0 +1,41 @@
+[
+    {
+        "VendorCode":"ISTHA",
+        "VendorName":"ISTHA",
+        "Address1":"1009 Whittington Place ",
+        "VendorAccount": 4,
+        "State":"Texas",
+        "Country": "USA",
+        "City":"Southlake",
+        "PostalCode": "76092",
+        "Description":"Istha vendor",
+        "CreatedBy":"Dinesh",
+        "CreatedDate" : "2023-10-04T11:37:54.857Z"
+    },
+    {
+        "VendorCode":"BATA",
+        "VendorName":"BATA",
+        "Address1":"NW 105 street",
+        "State":"Texas",
+        "Country": "USA",
+        "City":"Miami",
+        "VendorAccount" : 3,
+        "PostalCode": "11690",
+        "Description":"Bata vendor",
+        "CreatedBy":"Dinesh",
+        "CreatedDate" : "2023-10-04T11:37:54.857Z"
+    },
+    {
+        "VendorCode":"BILLAPY",
+        "VendorName":"BILLAPY",
+        "Address1":"NW 1009 Whittington Place ",
+        "Country": "USA",
+        "State":"Texas",
+        "City":"Dallas",
+        "VendorAccount" : 2,
+        "PostalCode": "11679",
+        "Description":"",
+        "CreatedBy":"Dinesh",
+        "CreatedDate" : "2023-10-04T11:37:54.857Z"
+    }
+]

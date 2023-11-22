@@ -1,0 +1,43 @@
+{
+  "extends": "next/core-web-vitals",
+  "plugins": [
+    "check-file",
+    "import"
+  ],
+  "rules": {
+    "import/no-default-export": "error",
+    "omitImportAndExport": 0,
+    "no-unused-vars": "error",
+    "no-console": [
+      "error",
+      {
+        "allow": [
+          "error",
+          "info"
+        ]
+      }
+    ],
+    "@next/next/no-img-element": "off"
+  },
+  "overrides": [
+    {
+      "files": [
+        "./src/pages/*.tsx",
+        "./src/pages/**/*.tsx",
+        "./src/stories/*.tsx",
+        "./src/stories/**/*.tsx"
+      ],
+      "rules": {
+        "import/no-default-export": "off"
+      }
+    },
+    {
+      "files": [
+        "./src/utils/*.tsx"
+      ],
+      "rules": {
+        "no-unused-vars": "off"
+      }
+    }
+  ]
+}

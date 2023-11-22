@@ -1,0 +1,46 @@
+[{
+    "ProductName": "Toll",
+    "ProductCode": "Toll-Agengy",
+    "ProductUPC": "00855541007007",
+    "ProductSKU": "SKU-90878",
+    "IsEnable": true,
+    "tablecell": "Discount",
+    "DiscountRate": "300",
+    "Discount": "Rate",
+    "BaseSaleRate": "USD : $320",
+    "RangeMax":"100"
+}, {
+    "ProductName": "Toll",
+    "ProductCode": "Toll-Agengy",
+    "ProductUPC": "00855541007007",
+    "ProductSKU": "SKU-90878",
+    "IsEnable": true,
+    "tablecell": "Discount",
+    "DiscountRate": "280",
+    "Discount": ">100",
+    "BaseSaleRate": "USD : $320",
+    "RangeMax":"200"
+}, {
+    "ProductName": "Toll",
+    "ProductCode": "Toll-Agengy",
+    "ProductUPC": "00855541007007",
+    "ProductSKU": "SKU-90878",
+    "IsEnable": true,
+    "tablecell": "Discount",
+    "DiscountRate": "250",
+    "Discount": ">200",
+    "BaseSaleRate": "USD : $320",
+    "RangeMax":"300"
+}, {
+    "ProductName": "Toll",
+    "ProductCode": "Toll-Agengy",
+    "ProductUPC": "00855541007007",
+    "ProductSKU": "SKU-90878",
+    "IsEnable": true,
+    "tablecell": "Discount",
+    "DiscountRate": "200",
+    "Discount": ">300",
+    "BaseSaleRate": "USD : $320",
+    "RangeMax":"400"
+}
+]

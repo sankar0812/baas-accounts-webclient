@@ -1,0 +1,52 @@
+[
+    {
+        "CategoryName": "Appliances",
+        "CategoryCode": "APPLIANCES",
+        "Description": "This is the sample data",
+        "CreatedAuthID": 1,
+        "CreatedBy": "Dinesh",
+        "CreatedDate": "2023-11-07T06:00:29.558Z ",
+        "ModifiedBy": "Dinesh",
+        "ModifiedDate": "2023-11-14T06:00:29.558Z "
+    },
+    {
+        "CategoryName": "Movies & TV",
+        "CategoryCode": "MOVIES & TV",
+        "Description": "This is the test data",
+        "CreatedAuthID": 1,
+        "CreatedBy": "Dinesh",
+        "CreatedDate": "2023-11-08T06:00:29.558Z ",
+        "ModifiedBy": "Dinesh",
+        "ModifiedDate": "2023-11-16T06:00:29.558Z "
+    },
+    {
+        "CategoryName": "Computers",
+        "CategoryCode": "COMPUTERS",
+        "Description": "This is the sample",
+        "CreatedAuthID": 1,
+        "CreatedBy": "Dinesh",
+        "CreatedDate": "2023-11-09T06:00:29.558Z ",
+        "ModifiedBy": "Dinesh",
+        "ModifiedDate": "2023-11-18T06:00:29.558Z "
+    },
+    {
+        "CategoryName": "Electronics",
+        "CategoryCode": "ELECTRONICS",
+        "Description": "This is the data",
+        "CreatedAuthID": 1,
+        "CreatedBy": "Dinesh",
+        "CreatedDate": "2023-11-10T06:00:29.558Z ",
+        "ModifiedBy": "Dinesh",
+        "ModifiedDate": "2023-11-20T06:00:29.558Z "
+    },
+    {
+        "CategoryName": "Musical Instruments",
+        "CategoryCode": "MUSICAL INSTRUMENTS",
+        "Description": "Sample data",
+        "CreatedAuthID": 1,
+        "CreatedBy": "Dinesh",
+        "CreatedDate": "2023-11-11T06:00:29.558Z ",
+        "ModifiedBy": "Dinesh",
+        "ModifiedDate": "2023-11-22T06:00:29.558Z "
+    }
+]
